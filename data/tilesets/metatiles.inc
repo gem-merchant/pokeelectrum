@@ -557,3 +557,28 @@ gMetatiles_UnionRoom:: @ 83DF392
 	.align 1
 gMetatileAttributes_UnionRoom:: @ 83DF6A2
 	.incbin "data/tilesets/secondary/union_room/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_E_GeneralOutdoors_Day::
+	.incbin "data/tilesets/primary/e_generaloutdoors_day/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_E_GeneralOutdoors_Day::
+	.incbin "data/tilesets/primary/e_generaloutdoors_day/metatile_attributes.bin"
+	.align 1
+
+	.align 1
+gMetatiles_E_GeneralOutdoors_Night::
+	.incbin "data/tilesets/primary/e_generaloutdoors_night/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_E_GeneralOutdoors_Night::
+	.incbin "data/tilesets/primary/e_generaloutdoors_night/metatile_attributes.bin"
+	.align 1
+	
+gMetatiles_E_AcademiaArea::
+	.incbin "data/tilesets/secondary/e_academiaarea/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_E_AcademiaArea::
+	.incbin "data/tilesets/secondary/e_academiaarea/metatile_attributes.bin"

@@ -830,3 +830,36 @@ gTileset_UnionRoom:: @ 83DFDFC
 	.4byte gMetatiles_UnionRoom
 	.4byte gMetatileAttributes_UnionRoom
 	.4byte NULL @ animation callback
+
+	.align 2
+gTileset_E_GeneralOutdoors_Day::
+	.byte TRUE @ is compressed
+	.byte FALSE @ is secondary
+	.2byte 0
+	.4byte gTilesetTiles_E_GeneralOutdoors_Day
+	.4byte gTilesetPalettes_E_GeneralOutdoors_Day
+	.4byte gMetatiles_E_GeneralOutdoors_Day
+	.4byte gMetatileAttributes_E_GeneralOutdoors_Day
+	.4byte NULL
+
+	.align 2
+gTileset_E_GeneralOutdoors_Night::
+	.byte TRUE @ is compressed
+	.byte FALSE @ is secondary
+	.2byte 0
+	.4byte gTilesetTiles_E_GeneralOutdoors_Night
+	.4byte gTilesetPalettes_E_GeneralOutdoors_Night
+	.4byte gMetatiles_E_GeneralOutdoors_Night
+	.4byte gMetatileAttributes_E_GeneralOutdoors_Night
+	.4byte NULL
+
+	.align 2
+gTileset_E_AcademiaArea::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0
+	.4byte gTilesetTiles_E_AcademiaArea
+	.4byte gTilesetPalettes_E_AcademiaArea
+	.4byte gMetatiles_E_AcademiaArea
+	.4byte gMetatileAttributes_E_AcademiaArea
+	.4byte NULL

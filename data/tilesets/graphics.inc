@@ -1729,3 +1729,63 @@ gTilesetPalettes_UnionRoom:: @ 8395678
 	.align 2
 gTilesetTiles_UnionRoom:: @ 8395878
 	.incbin "data/tilesets/secondary/union_room/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_E_GeneralOutdoors_Day::
+	.incbin "data/tilesets/primary/e_generaloutdoors_day/palettes/00.gbapal"
+	.incbin "data/tilesets/primary/e_generaloutdoors_day/palettes/01.gbapal"
+	.incbin "data/tilesets/primary/e_generaloutdoors_day/palettes/02.gbapal"
+	.incbin "data/tilesets/primary/e_generaloutdoors_day/palettes/03.gbapal"
+	.incbin "data/tilesets/primary/e_generaloutdoors_day/palettes/04.gbapal"
+	.incbin "data/tilesets/primary/e_generaloutdoors_day/palettes/05.gbapal"
+	.incbin "data/tilesets/primary/e_generaloutdoors_day/palettes/06.gbapal"
+	.incbin "data/tilesets/primary/e_generaloutdoors_day/palettes/07.gbapal"
+	.incbin "data/tilesets/primary/e_generaloutdoors_day/palettes/08.gbapal"
+	.incbin "data/tilesets/primary/e_generaloutdoors_day/palettes/09.gbapal"
+	.incbin "data/tilesets/primary/e_generaloutdoors_day/palettes/10.gbapal"
+	.incbin "data/tilesets/primary/e_generaloutdoors_day/palettes/11.gbapal"
+	.incbin "data/tilesets/primary/e_generaloutdoors_day/palettes/12.gbapal"
+
+	.align 2
+gTilesetTiles_E_GeneralOutdoors_Day::
+	.incbin "data/tilesets/primary/e_generaloutdoors_day/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_E_GeneralOutdoors_Night::
+	.incbin "data/tilesets/primary/e_generaloutdoors_night/palettes/00.gbapal"
+	.incbin "data/tilesets/primary/e_generaloutdoors_night/palettes/01.gbapal"
+	.incbin "data/tilesets/primary/e_generaloutdoors_night/palettes/02.gbapal"
+	.incbin "data/tilesets/primary/e_generaloutdoors_night/palettes/03.gbapal"
+	.incbin "data/tilesets/primary/e_generaloutdoors_night/palettes/04.gbapal"
+	.incbin "data/tilesets/primary/e_generaloutdoors_night/palettes/05.gbapal"
+	.incbin "data/tilesets/primary/e_generaloutdoors_night/palettes/06.gbapal"
+	.incbin "data/tilesets/primary/e_generaloutdoors_night/palettes/07.gbapal"
+	.incbin "data/tilesets/primary/e_generaloutdoors_night/palettes/08.gbapal"
+	.incbin "data/tilesets/primary/e_generaloutdoors_night/palettes/09.gbapal"
+	.incbin "data/tilesets/primary/e_generaloutdoors_night/palettes/10.gbapal"
+	.incbin "data/tilesets/primary/e_generaloutdoors_night/palettes/11.gbapal"
+	.incbin "data/tilesets/primary/e_generaloutdoors_night/palettes/12.gbapal"
+
+	.align 2
+gTilesetTiles_E_GeneralOutdoors_Night::
+	.incbin "data/tilesets/primary/e_generaloutdoors_night/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_E_AcademiaArea::
+	.incbin "data/tilesets/secondary/e_academiaarea/palettes/00.gbapal"
+	.incbin "data/tilesets/secondary/e_academiaarea/palettes/01.gbapal"
+	.incbin "data/tilesets/secondary/e_academiaarea/palettes/02.gbapal"
+	.incbin "data/tilesets/secondary/e_academiaarea/palettes/03.gbapal"
+	.incbin "data/tilesets/secondary/e_academiaarea/palettes/04.gbapal"
+	.incbin "data/tilesets/secondary/e_academiaarea/palettes/05.gbapal"
+	.incbin "data/tilesets/secondary/e_academiaarea/palettes/06.gbapal"
+	.incbin "data/tilesets/secondary/e_academiaarea/palettes/07.gbapal"
+	.incbin "data/tilesets/secondary/e_academiaarea/palettes/08.gbapal"
+	.incbin "data/tilesets/secondary/e_academiaarea/palettes/09.gbapal"
+	.incbin "data/tilesets/secondary/e_academiaarea/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/e_academiaarea/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/e_academiaarea/palettes/12.gbapal"
+
+	.align 2
+gTilesetTiles_E_AcademiaArea::
+	.incbin "data/tilesets/secondary/e_academiaarea/tiles.4bpp.lz"
