@@ -22,6 +22,11 @@
       "direction": "right",
       "offset": 10,
       "map": "MAP_ROUTE102"
+    },
+    {
+      "direction": "emerge",
+      "offset": 0,
+      "map": "MAP_TAUPE_TOWN_DAY"
     }
   ],
   "object_events": [

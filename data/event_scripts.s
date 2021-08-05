@@ -1066,3 +1066,21 @@ Common_EventScript_LegendaryFlewAway:: @ 8273776
 	.include "data/maps/MarigoldCityNight/scripts.inc"
 
 	.include "data/maps/ERoute3_Day/scripts.inc"
+
+	.include "data/maps/ERoute2_Day/scripts.inc"
+
+	.include "data/maps/ERoute1_Day/scripts.inc"
+
+	.include "data/maps/SiennaCityDay/scripts.inc"
+
+	.include "data/maps/MintCity/scripts.inc"
+
+	.include "data/maps/ERoute4_Day/scripts.inc"
+
+	.include "data/maps/ERoute5_Day/scripts.inc"
+
+	.include "data/maps/ERoute6_Day/scripts.inc"
+
+	.include "data/maps/ERoute7_Day/scripts.inc"
+
+	.include "data/maps/TaupeTownDay/scripts.inc"

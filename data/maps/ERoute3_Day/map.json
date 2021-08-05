@@ -2,7 +2,7 @@
   "id": "MAP_EROUTE3_DAY",
   "name": "ERoute3_Day",
   "layout": "LAYOUT_EROUTE3_DAY",
-  "music": "MUS_ABANDONED_SHIP",
+  "music": "MUS_RG_SEVII_ROUTE",
   "region_map_section": "MAPSEC_LITTLEROOT_TOWN",
   "requires_flash": false,
   "weather": "WEATHER_NONE",
@@ -17,6 +17,11 @@
       "direction": "left",
       "offset": 2,
       "map": "MAP_MARIGOLD_CITY_DAY"
+    },
+    {
+      "direction": "right",
+      "offset": -4,
+      "map": "MAP_EROUTE4_DAY"
     }
   ],
   "object_events": [

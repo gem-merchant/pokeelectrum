@@ -96,8 +96,8 @@
       "name": "LittlerootTown_Layout",
       "width": 20,
       "height": 20,
-      "primary_tileset": "gTileset_E_GeneralOutdoors_Day",
-      "secondary_tileset": "gTileset_E_AcademiaArea",
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/LittlerootTown/border.bin",
       "blockdata_filepath": "data/layouts/LittlerootTown/map.bin"
     },
@@ -547,7 +547,7 @@
       "width": 9,
       "height": 8,
       "primary_tileset": "gTileset_E_GeneralOutdoors_Day",
-      "secondary_tileset": "gTileset_E_AcademiaArea",
+      "secondary_tileset": "gTileset_E_TaupeArea",
       "border_filepath": "data/layouts/LittlerootTown_BrendansHouse_2F/border.bin",
       "blockdata_filepath": "data/layouts/LittlerootTown_BrendansHouse_2F/map.bin"
     },
@@ -4417,7 +4417,7 @@
       "width": 76,
       "height": 36,
       "primary_tileset": "gTileset_E_GeneralOutdoors_Day",
-      "secondary_tileset": "gTileset_E_AcademiaArea",
+      "secondary_tileset": "gTileset_E_MarigoldArea",
       "border_filepath": "data/layouts/MarigoldCityDay/border.bin",
       "blockdata_filepath": "data/layouts/MarigoldCityDay/map.bin"
     },
@@ -4427,7 +4427,7 @@
       "width": 76,
       "height": 36,
       "primary_tileset": "gTileset_E_GeneralOutdoors_Night",
-      "secondary_tileset": "gTileset_E_AcademiaArea",
+      "secondary_tileset": "gTileset_E_MarigoldArea",
       "border_filepath": "data/layouts/MarigoldCityNight/border.bin",
       "blockdata_filepath": "data/layouts/MarigoldCityNight/map.bin"
     },
@@ -4437,9 +4437,99 @@
       "width": 50,
       "height": 34,
       "primary_tileset": "gTileset_E_GeneralOutdoors_Day",
-      "secondary_tileset": "gTileset_E_AcademiaArea",
+      "secondary_tileset": "gTileset_E_MarigoldArea",
       "border_filepath": "data/layouts/ERoute3_Day/border.bin",
       "blockdata_filepath": "data/layouts/ERoute3_Day/map.bin"
+    },
+    {
+      "id": "LAYOUT_EROUTE2_DAY",
+      "name": "ERoute2_Day_Layout",
+      "width": 30,
+      "height": 72,
+      "primary_tileset": "gTileset_E_GeneralOutdoors_Day",
+      "secondary_tileset": "gTileset_E_MarigoldArea",
+      "border_filepath": "data/layouts/ERoute2_Day/border.bin",
+      "blockdata_filepath": "data/layouts/ERoute2_Day/map.bin"
+    },
+    {
+      "id": "LAYOUT_EROUTE1_DAY",
+      "name": "ERoute1_Day_Layout",
+      "width": 62,
+      "height": 40,
+      "primary_tileset": "gTileset_E_GeneralOutdoors_Day",
+      "secondary_tileset": "gTileset_E_AcademiaArea",
+      "border_filepath": "data/layouts/ERoute1_Day/border.bin",
+      "blockdata_filepath": "data/layouts/ERoute1_Day/map.bin"
+    },
+    {
+      "id": "LAYOUT_SIENNA_CITY_DAY",
+      "name": "SiennaCityDay_Layout",
+      "width": 62,
+      "height": 50,
+      "primary_tileset": "gTileset_E_GeneralOutdoors_Day",
+      "secondary_tileset": "gTileset_E_AcademiaArea",
+      "border_filepath": "data/layouts/SiennaCityDay/border.bin",
+      "blockdata_filepath": "data/layouts/SiennaCityDay/map.bin"
+    },
+    {
+      "id": "LAYOUT_MINT_CITY",
+      "name": "MintCity_Layout",
+      "width": 62,
+      "height": 50,
+      "primary_tileset": "gTileset_E_GeneralOutdoors_Day",
+      "secondary_tileset": "gTileset_MintArea",
+      "border_filepath": "data/layouts/MintCity/border.bin",
+      "blockdata_filepath": "data/layouts/MintCity/map.bin"
+    },
+    {
+      "id": "LAYOUT_EROUTE4_DAY",
+      "name": "ERoute4_Day_Layout",
+      "width": 58,
+      "height": 34,
+      "primary_tileset": "gTileset_E_GeneralOutdoors_Day",
+      "secondary_tileset": "gTileset_MintArea",
+      "border_filepath": "data/layouts/ERoute4_Day/border.bin",
+      "blockdata_filepath": "data/layouts/ERoute4_Day/map.bin"
+    },
+    {
+      "id": "LAYOUT_EROUTE5_DAY",
+      "name": "ERoute5_Day_Layout",
+      "width": 68,
+      "height": 48,
+      "primary_tileset": "gTileset_E_GeneralOutdoors_Day",
+      "secondary_tileset": "gTileset_E_MarigoldArea",
+      "border_filepath": "data/layouts/ERoute5_Day/border.bin",
+      "blockdata_filepath": "data/layouts/ERoute5_Day/map.bin"
+    },
+    {
+      "id": "LAYOUT_EROUTE6_DAY",
+      "name": "ERoute6_Day_Layout",
+      "width": 58,
+      "height": 70,
+      "primary_tileset": "gTileset_E_GeneralOutdoors_Day",
+      "secondary_tileset": "gTileset_E_MarigoldArea",
+      "border_filepath": "data/layouts/ERoute6_Day/border.bin",
+      "blockdata_filepath": "data/layouts/ERoute6_Day/map.bin"
+    },
+    {
+      "id": "LAYOUT_EROUTE7_DAY",
+      "name": "ERoute7_Day_Layout",
+      "width": 44,
+      "height": 38,
+      "primary_tileset": "gTileset_E_GeneralOutdoors_Day",
+      "secondary_tileset": "gTileset_E_TaupeArea",
+      "border_filepath": "data/layouts/ERoute7_Day/border.bin",
+      "blockdata_filepath": "data/layouts/ERoute7_Day/map.bin"
+    },
+    {
+      "id": "LAYOUT_TAUPE_TOWN_DAY",
+      "name": "TaupeTownDay_Layout",
+      "width": 48,
+      "height": 40,
+      "primary_tileset": "gTileset_E_GeneralOutdoors_Day",
+      "secondary_tileset": "gTileset_E_TaupeArea",
+      "border_filepath": "data/layouts/TaupeTownDay/border.bin",
+      "blockdata_filepath": "data/layouts/TaupeTownDay/map.bin"
     }
   ]
 }

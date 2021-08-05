@@ -1789,3 +1789,62 @@ gTilesetPalettes_E_AcademiaArea::
 	.align 2
 gTilesetTiles_E_AcademiaArea::
 	.incbin "data/tilesets/secondary/e_academiaarea/tiles.4bpp.lz"
+	.align 2
+gTilesetPalettes_E_MarigoldArea::
+	.incbin "data/tilesets/secondary/e_marigoldarea/palettes/00.gbapal"
+	.incbin "data/tilesets/secondary/e_marigoldarea/palettes/01.gbapal"
+	.incbin "data/tilesets/secondary/e_marigoldarea/palettes/02.gbapal"
+	.incbin "data/tilesets/secondary/e_marigoldarea/palettes/03.gbapal"
+	.incbin "data/tilesets/secondary/e_marigoldarea/palettes/04.gbapal"
+	.incbin "data/tilesets/secondary/e_marigoldarea/palettes/05.gbapal"
+	.incbin "data/tilesets/secondary/e_marigoldarea/palettes/06.gbapal"
+	.incbin "data/tilesets/secondary/e_marigoldarea/palettes/07.gbapal"
+	.incbin "data/tilesets/secondary/e_marigoldarea/palettes/08.gbapal"
+	.incbin "data/tilesets/secondary/e_marigoldarea/palettes/09.gbapal"
+	.incbin "data/tilesets/secondary/e_marigoldarea/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/e_marigoldarea/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/e_marigoldarea/palettes/12.gbapal"
+
+	.align 2
+gTilesetTiles_E_MarigoldArea::
+	.incbin "data/tilesets/secondary/e_marigoldarea/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_MintArea::
+	.incbin "data/tilesets/secondary/mintarea/palettes/00.gbapal"
+	.incbin "data/tilesets/secondary/mintarea/palettes/01.gbapal"
+	.incbin "data/tilesets/secondary/mintarea/palettes/02.gbapal"
+	.incbin "data/tilesets/secondary/mintarea/palettes/03.gbapal"
+	.incbin "data/tilesets/secondary/mintarea/palettes/04.gbapal"
+	.incbin "data/tilesets/secondary/mintarea/palettes/05.gbapal"
+	.incbin "data/tilesets/secondary/mintarea/palettes/06.gbapal"
+	.incbin "data/tilesets/secondary/mintarea/palettes/07.gbapal"
+	.incbin "data/tilesets/secondary/mintarea/palettes/08.gbapal"
+	.incbin "data/tilesets/secondary/mintarea/palettes/09.gbapal"
+	.incbin "data/tilesets/secondary/mintarea/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/mintarea/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/mintarea/palettes/12.gbapal"
+
+	.align 2
+gTilesetTiles_MintArea::
+	.incbin "data/tilesets/secondary/mintarea/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_E_TaupeArea::
+	.incbin "data/tilesets/secondary/e_taupearea/palettes/00.gbapal"
+	.incbin "data/tilesets/secondary/e_taupearea/palettes/01.gbapal"
+	.incbin "data/tilesets/secondary/e_taupearea/palettes/02.gbapal"
+	.incbin "data/tilesets/secondary/e_taupearea/palettes/03.gbapal"
+	.incbin "data/tilesets/secondary/e_taupearea/palettes/04.gbapal"
+	.incbin "data/tilesets/secondary/e_taupearea/palettes/05.gbapal"
+	.incbin "data/tilesets/secondary/e_taupearea/palettes/06.gbapal"
+	.incbin "data/tilesets/secondary/e_taupearea/palettes/07.gbapal"
+	.incbin "data/tilesets/secondary/e_taupearea/palettes/08.gbapal"
+	.incbin "data/tilesets/secondary/e_taupearea/palettes/09.gbapal"
+	.incbin "data/tilesets/secondary/e_taupearea/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/e_taupearea/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/e_taupearea/palettes/12.gbapal"
+
+	.align 2
+gTilesetTiles_E_TaupeArea::
+	.incbin "data/tilesets/secondary/e_taupearea/tiles.4bpp.lz"

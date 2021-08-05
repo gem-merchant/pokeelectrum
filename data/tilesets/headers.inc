@@ -863,3 +863,35 @@ gTileset_E_AcademiaArea::
 	.4byte gMetatiles_E_AcademiaArea
 	.4byte gMetatileAttributes_E_AcademiaArea
 	.4byte NULL
+	.align 2
+gTileset_E_MarigoldArea::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0
+	.4byte gTilesetTiles_E_MarigoldArea
+	.4byte gTilesetPalettes_E_MarigoldArea
+	.4byte gMetatiles_E_MarigoldArea
+	.4byte gMetatileAttributes_E_MarigoldArea
+	.4byte NULL
+
+	.align 2
+gTileset_MintArea::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0
+	.4byte gTilesetTiles_MintArea
+	.4byte gTilesetPalettes_MintArea
+	.4byte gMetatiles_MintArea
+	.4byte gMetatileAttributes_MintArea
+	.4byte NULL
+
+	.align 2
+gTileset_E_TaupeArea::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0
+	.4byte gTilesetTiles_E_TaupeArea
+	.4byte gTilesetPalettes_E_TaupeArea
+	.4byte gMetatiles_E_TaupeArea
+	.4byte gMetatileAttributes_E_TaupeArea
+	.4byte NULL

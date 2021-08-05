@@ -66,6 +66,15 @@
 #define MAP_MARIGOLD_CITY_DAY   (57 | (0 << 8))
 #define MAP_MARIGOLD_CITY_NIGHT (58 | (0 << 8))
 #define MAP_EROUTE3_DAY         (59 | (0 << 8))
+#define MAP_EROUTE2_DAY         (60 | (0 << 8))
+#define MAP_EROUTE1_DAY         (61 | (0 << 8))
+#define MAP_SIENNA_CITY_DAY     (62 | (0 << 8))
+#define MAP_MINT_CITY           (63 | (0 << 8))
+#define MAP_EROUTE4_DAY         (64 | (0 << 8))
+#define MAP_EROUTE5_DAY         (65 | (0 << 8))
+#define MAP_EROUTE6_DAY         (66 | (0 << 8))
+#define MAP_EROUTE7_DAY         (67 | (0 << 8))
+#define MAP_TAUPE_TOWN_DAY      (68 | (0 << 8))
 
 // gMapGroup_IndoorLittleroot
 #define MAP_LITTLEROOT_TOWN_BRENDANS_HOUSE_1F    (0 | (1 << 8))

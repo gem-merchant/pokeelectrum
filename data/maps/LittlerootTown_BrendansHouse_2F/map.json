@@ -15,8 +15,8 @@
   "connections": [
     {
       "direction": "down",
-      "offset": -36,
-      "map": "MAP_MARIGOLD_CITY_DAY"
+      "offset": -39,
+      "map": "MAP_TAUPE_TOWN_DAY"
     }
   ],
   "object_events": [

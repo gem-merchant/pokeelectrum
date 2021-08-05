@@ -582,3 +582,24 @@ gMetatiles_E_AcademiaArea::
 	.align 1
 gMetatileAttributes_E_AcademiaArea::
 	.incbin "data/tilesets/secondary/e_academiaarea/metatile_attributes.bin"
+	.align 1
+gMetatiles_E_MarigoldArea::
+	.incbin "data/tilesets/secondary/e_marigoldarea/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_E_MarigoldArea::
+	.incbin "data/tilesets/secondary/e_marigoldarea/metatile_attributes.bin"
+	.align 1
+gMetatiles_MintArea::
+	.incbin "data/tilesets/secondary/mintarea/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_MintArea::
+	.incbin "data/tilesets/secondary/mintarea/metatile_attributes.bin"
+	.align 1
+gMetatiles_E_TaupeArea::
+	.incbin "data/tilesets/secondary/e_taupearea/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_E_TaupeArea::
+	.incbin "data/tilesets/secondary/e_taupearea/metatile_attributes.bin"

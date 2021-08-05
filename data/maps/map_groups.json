@@ -96,7 +96,16 @@
     "Underwater_Route125",
     "MarigoldCityDay",
     "MarigoldCityNight",
-    "ERoute3_Day"
+    "ERoute3_Day",
+    "ERoute2_Day",
+    "ERoute1_Day",
+    "SiennaCityDay",
+    "MintCity",
+    "ERoute4_Day",
+    "ERoute5_Day",
+    "ERoute6_Day",
+    "ERoute7_Day",
+    "TaupeTownDay"
   ],
   "gMapGroup_IndoorLittleroot": [
     "LittlerootTown_BrendansHouse_1F",
