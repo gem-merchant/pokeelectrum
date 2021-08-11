@@ -1084,3 +1084,17 @@ Common_EventScript_LegendaryFlewAway:: @ 8273776
 	.include "data/maps/ERoute7_Day/scripts.inc"
 
 	.include "data/maps/TaupeTownDay/scripts.inc"
+
+	.include "data/maps/FILLERVicRoad/scripts.inc"
+
+	.include "data/maps/FILLERDesert/scripts.inc"
+
+	.include "data/maps/FILLERSilkTunnel/scripts.inc"
+
+	.include "data/maps/FILLERForest/scripts.inc"
+
+	.include "data/maps/ERoute8_Day/scripts.inc"
+
+	.include "data/maps/ERoute9_Day/scripts.inc"
+
+	.include "data/maps/AvianClub_Day/scripts.inc"

@@ -105,7 +105,14 @@
     "ERoute5_Day",
     "ERoute6_Day",
     "ERoute7_Day",
-    "TaupeTownDay"
+    "TaupeTownDay",
+    "FILLERVicRoad",
+    "FILLERDesert",
+    "FILLERSilkTunnel",
+    "FILLERForest",
+    "ERoute8_Day",
+    "ERoute9_Day",
+    "AvianClub_Day"
   ],
   "gMapGroup_IndoorLittleroot": [
     "LittlerootTown_BrendansHouse_1F",

@@ -4524,12 +4524,82 @@
     {
       "id": "LAYOUT_TAUPE_TOWN_DAY",
       "name": "TaupeTownDay_Layout",
-      "width": 48,
+      "width": 70,
       "height": 40,
       "primary_tileset": "gTileset_E_GeneralOutdoors_Day",
       "secondary_tileset": "gTileset_E_TaupeArea",
       "border_filepath": "data/layouts/TaupeTownDay/border.bin",
       "blockdata_filepath": "data/layouts/TaupeTownDay/map.bin"
+    },
+    {
+      "id": "LAYOUT_FILLERVIC_ROAD",
+      "name": "FILLERVicRoad_Layout",
+      "width": 50,
+      "height": 38,
+      "primary_tileset": "gTileset_E_GeneralOutdoors_Day",
+      "secondary_tileset": "gTileset_E_MarigoldArea",
+      "border_filepath": "data/layouts/FILLERVicRoad/border.bin",
+      "blockdata_filepath": "data/layouts/FILLERVicRoad/map.bin"
+    },
+    {
+      "id": "LAYOUT_FILLERDESERT",
+      "name": "FILLERDesert_Layout",
+      "width": 44,
+      "height": 52,
+      "primary_tileset": "gTileset_E_GeneralOutdoors_Day",
+      "secondary_tileset": "gTileset_E_TaupeArea",
+      "border_filepath": "data/layouts/FILLERDesert/border.bin",
+      "blockdata_filepath": "data/layouts/FILLERDesert/map.bin"
+    },
+    {
+      "id": "LAYOUT_FILLERSILK_TUNNEL",
+      "name": "FILLERSilkTunnel_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_E_GeneralOutdoors_Day",
+      "secondary_tileset": "gTileset_E_TaupeArea",
+      "border_filepath": "data/layouts/FILLERSilkTunnel/border.bin",
+      "blockdata_filepath": "data/layouts/FILLERSilkTunnel/map.bin"
+    },
+    {
+      "id": "LAYOUT_FILLERFOREST",
+      "name": "FILLERForest_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_E_GeneralOutdoors_Day",
+      "secondary_tileset": "gTileset_MintArea",
+      "border_filepath": "data/layouts/FILLERForest/border.bin",
+      "blockdata_filepath": "data/layouts/FILLERForest/map.bin"
+    },
+    {
+      "id": "LAYOUT_EROUTE8_DAY",
+      "name": "ERoute8_Day_Layout",
+      "width": 20,
+      "height": 42,
+      "primary_tileset": "gTileset_E_GeneralOutdoors_Day",
+      "secondary_tileset": "gTileset_E_TaupeArea",
+      "border_filepath": "data/layouts/ERoute8_Day/border.bin",
+      "blockdata_filepath": "data/layouts/ERoute8_Day/map.bin"
+    },
+    {
+      "id": "LAYOUT_EROUTE9_DAY",
+      "name": "ERoute9_Day_Layout",
+      "width": 56,
+      "height": 26,
+      "primary_tileset": "gTileset_E_GeneralOutdoors_Day",
+      "secondary_tileset": "gTileset_E_TaupeArea",
+      "border_filepath": "data/layouts/ERoute9_Day/border.bin",
+      "blockdata_filepath": "data/layouts/ERoute9_Day/map.bin"
+    },
+    {
+      "id": "LAYOUT_AVIAN_CLUB_DAY",
+      "name": "AvianClub_Day_Layout",
+      "width": 16,
+      "height": 36,
+      "primary_tileset": "gTileset_E_GeneralOutdoors_Day",
+      "secondary_tileset": "gTileset_E_TaupeArea",
+      "border_filepath": "data/layouts/AvianClub_Day/border.bin",
+      "blockdata_filepath": "data/layouts/AvianClub_Day/map.bin"
     }
   ]
 }

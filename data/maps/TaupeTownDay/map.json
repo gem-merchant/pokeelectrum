@@ -24,9 +24,14 @@
       "map": "MAP_PETALBURG_CITY"
     },
     {
-      "direction": "up",
-      "offset": 39,
+      "direction": "right",
+      "offset": 26,
       "map": "MAP_LITTLEROOT_TOWN_BRENDANS_HOUSE_2F"
+    },
+    {
+      "direction": "up",
+      "offset": 8,
+      "map": "MAP_EROUTE8_DAY"
     }
   ],
   "object_events": [

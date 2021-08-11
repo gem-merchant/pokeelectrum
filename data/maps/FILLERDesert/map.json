@@ -1,32 +1,27 @@
 {
-  "id": "MAP_EROUTE5_DAY",
-  "name": "ERoute5_Day",
-  "layout": "LAYOUT_EROUTE5_DAY",
+  "id": "MAP_FILLERDESERT",
+  "name": "FILLERDesert",
+  "layout": "LAYOUT_FILLERDESERT",
   "music": "MUS_ABANDONED_SHIP",
   "region_map_section": "MAPSEC_LITTLEROOT_TOWN",
   "requires_flash": false,
   "weather": "WEATHER_NONE",
-  "map_type": "MAP_TYPE_ROUTE",
-  "allow_cycling": true,
+  "map_type": "MAP_TYPE_NONE",
+  "allow_cycling": false,
   "allow_escaping": false,
-  "allow_running": true,
+  "allow_running": false,
   "show_map_name": true,
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
-      "direction": "right",
-      "offset": 16,
-      "map": "MAP_MARIGOLD_CITY_DAY"
-    },
-    {
-      "direction": "left",
-      "offset": 0,
-      "map": "MAP_EROUTE6_DAY"
+      "direction": "down",
+      "offset": -14,
+      "map": "MAP_EROUTE5_DAY"
     },
     {
       "direction": "up",
-      "offset": 14,
-      "map": "MAP_FILLERDESERT"
+      "offset": 0,
+      "map": "MAP_EROUTE7_DAY"
     }
   ],
   "object_events": [
