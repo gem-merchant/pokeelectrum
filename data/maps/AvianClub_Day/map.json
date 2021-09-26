@@ -14,14 +14,9 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
-      "direction": "left",
+      "direction": "right",
       "offset": 10,
       "map": "MAP_EROUTE9_DAY"
-    },
-    {
-      "direction": "down",
-      "offset": -12,
-      "map": "MAP_EROUTE8_DAY"
     }
   ],
   "object_events": [

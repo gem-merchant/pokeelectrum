@@ -15,11 +15,11 @@
   "connections": [
     {
       "direction": "down",
-      "offset": 44,
+      "offset": 60,
       "map": "MAP_EROUTE8_DAY"
     },
     {
-      "direction": "right",
+      "direction": "left",
       "offset": -10,
       "map": "MAP_AVIAN_CLUB_DAY"
     }

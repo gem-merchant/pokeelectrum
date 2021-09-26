@@ -20,13 +20,8 @@
     },
     {
       "direction": "up",
-      "offset": -44,
+      "offset": -60,
       "map": "MAP_EROUTE9_DAY"
-    },
-    {
-      "direction": "up",
-      "offset": 12,
-      "map": "MAP_AVIAN_CLUB_DAY"
     }
   ],
   "object_events": [

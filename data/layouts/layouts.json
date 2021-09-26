@@ -4584,8 +4584,8 @@
     {
       "id": "LAYOUT_EROUTE9_DAY",
       "name": "ERoute9_Day_Layout",
-      "width": 56,
-      "height": 26,
+      "width": 80,
+      "height": 40,
       "primary_tileset": "gTileset_E_GeneralOutdoors_Day",
       "secondary_tileset": "gTileset_E_TaupeArea",
       "border_filepath": "data/layouts/ERoute9_Day/border.bin",
@@ -4594,8 +4594,8 @@
     {
       "id": "LAYOUT_AVIAN_CLUB_DAY",
       "name": "AvianClub_Day_Layout",
-      "width": 16,
-      "height": 36,
+      "width": 30,
+      "height": 50,
       "primary_tileset": "gTileset_E_GeneralOutdoors_Day",
       "secondary_tileset": "gTileset_E_TaupeArea",
       "border_filepath": "data/layouts/AvianClub_Day/border.bin",
