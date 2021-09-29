@@ -1098,3 +1098,7 @@ Common_EventScript_LegendaryFlewAway:: @ 8273776
 	.include "data/maps/ERoute9_Day/scripts.inc"
 
 	.include "data/maps/AvianClub_Day/scripts.inc"
+
+	.include "data/maps/ERoute10_Day/scripts.inc"
+
+	.include "data/maps/IshiharaVillaDay/scripts.inc"

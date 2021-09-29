@@ -17,6 +17,11 @@
       "direction": "right",
       "offset": 10,
       "map": "MAP_EROUTE9_DAY"
+    },
+    {
+      "direction": "right",
+      "offset": -44,
+      "map": "MAP_EROUTE10_DAY"
     }
   ],
   "object_events": [

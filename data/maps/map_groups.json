@@ -112,7 +112,9 @@
     "FILLERForest",
     "ERoute8_Day",
     "ERoute9_Day",
-    "AvianClub_Day"
+    "AvianClub_Day",
+    "ERoute10_Day",
+    "IshiharaVillaDay"
   ],
   "gMapGroup_IndoorLittleroot": [
     "LittlerootTown_BrendansHouse_1F",

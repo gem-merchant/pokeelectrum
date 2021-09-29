@@ -1,7 +1,7 @@
 {
-  "id": "MAP_EROUTE9_DAY",
-  "name": "ERoute9_Day",
-  "layout": "LAYOUT_EROUTE9_DAY",
+  "id": "MAP_ISHIHARA_VILLA_DAY",
+  "name": "IshiharaVillaDay",
+  "layout": "LAYOUT_ISHIHARA_VILLA_DAY",
   "music": "MUS_ABANDONED_SHIP",
   "region_map_section": "MAPSEC_LITTLEROOT_TOWN",
   "requires_flash": false,
@@ -15,17 +15,7 @@
   "connections": [
     {
       "direction": "down",
-      "offset": 60,
-      "map": "MAP_EROUTE8_DAY"
-    },
-    {
-      "direction": "left",
-      "offset": -10,
-      "map": "MAP_AVIAN_CLUB_DAY"
-    },
-    {
-      "direction": "up",
-      "offset": 0,
+      "offset": 2,
       "map": "MAP_EROUTE10_DAY"
     }
   ],

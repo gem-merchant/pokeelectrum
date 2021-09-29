@@ -1,7 +1,7 @@
 {
-  "id": "MAP_EROUTE9_DAY",
-  "name": "ERoute9_Day",
-  "layout": "LAYOUT_EROUTE9_DAY",
+  "id": "MAP_EROUTE10_DAY",
+  "name": "ERoute10_Day",
+  "layout": "LAYOUT_EROUTE10_DAY",
   "music": "MUS_ABANDONED_SHIP",
   "region_map_section": "MAPSEC_LITTLEROOT_TOWN",
   "requires_flash": false,
@@ -15,18 +15,18 @@
   "connections": [
     {
       "direction": "down",
-      "offset": 60,
-      "map": "MAP_EROUTE8_DAY"
+      "offset": 0,
+      "map": "MAP_EROUTE9_DAY"
     },
     {
       "direction": "left",
-      "offset": -10,
+      "offset": 44,
       "map": "MAP_AVIAN_CLUB_DAY"
     },
     {
       "direction": "up",
-      "offset": 0,
-      "map": "MAP_EROUTE10_DAY"
+      "offset": -2,
+      "map": "MAP_ISHIHARA_VILLA_DAY"
     }
   ],
   "object_events": [

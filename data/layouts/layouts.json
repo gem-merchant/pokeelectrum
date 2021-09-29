@@ -4600,6 +4600,26 @@
       "secondary_tileset": "gTileset_E_TaupeArea",
       "border_filepath": "data/layouts/AvianClub_Day/border.bin",
       "blockdata_filepath": "data/layouts/AvianClub_Day/map.bin"
+    },
+    {
+      "id": "LAYOUT_EROUTE10_DAY",
+      "name": "ERoute10_Day_Layout",
+      "width": 26,
+      "height": 54,
+      "primary_tileset": "gTileset_E_GeneralOutdoors_Day",
+      "secondary_tileset": "gTileset_E_TaupeArea",
+      "border_filepath": "data/layouts/ERoute10_Day/border.bin",
+      "blockdata_filepath": "data/layouts/ERoute10_Day/map.bin"
+    },
+    {
+      "id": "LAYOUT_ISHIHARA_VILLA_DAY",
+      "name": "IshiharaVillaDay_Layout",
+      "width": 30,
+      "height": 30,
+      "primary_tileset": "gTileset_E_GeneralOutdoors_Day",
+      "secondary_tileset": "gTileset_E_TaupeArea",
+      "border_filepath": "data/layouts/IshiharaVillaDay/border.bin",
+      "blockdata_filepath": "data/layouts/IshiharaVillaDay/map.bin"
     }
   ]
 }
