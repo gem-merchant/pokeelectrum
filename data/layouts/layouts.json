@@ -546,8 +546,8 @@
       "name": "LittlerootTown_BrendansHouse_2F_Layout",
       "width": 9,
       "height": 8,
-      "primary_tileset": "gTileset_E_GeneralOutdoors_Day",
-      "secondary_tileset": "gTileset_E_TaupeArea",
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_BrendansMaysHouse",
       "border_filepath": "data/layouts/LittlerootTown_BrendansHouse_2F/border.bin",
       "blockdata_filepath": "data/layouts/LittlerootTown_BrendansHouse_2F/map.bin"
     },
@@ -586,8 +586,8 @@
       "name": "House1_Layout",
       "width": 10,
       "height": 9,
-      "primary_tileset": "gTileset_Building",
-      "secondary_tileset": "gTileset_GenericBuilding",
+      "primary_tileset": "gTileset_E_GeneralOutdoors_Day",
+      "secondary_tileset": "gTileset_E_TaupeArea",
       "border_filepath": "data/layouts/House1/border.bin",
       "blockdata_filepath": "data/layouts/House1/map.bin"
     },

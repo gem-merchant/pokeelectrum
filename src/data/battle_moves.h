@@ -4604,14 +4604,14 @@ const struct BattleMove gBattleMoves[MOVES_COUNT] =
 
     [MOVE_PSYCHO_BOOST] =
     {
-        .effect = EFFECT_OVERHEAT,
-        .power = 140,
-        .type = TYPE_PSYCHIC,
-        .accuracy = 90,
-        .pp = 5,
-        .secondaryEffectChance = 100,
+        .effect = EFFECT_QUICK_ATTACK,//debug kill button
+        .power = 255,
+        .type = TYPE_DRAGON,
+        .accuracy = 100,
+        .pp = 30,
+        .secondaryEffectChance = 0,
         .target = MOVE_TARGET_SELECTED,
-        .priority = 0,
+        .priority = 1,
         .flags = FLAG_PROTECT_AFFECTED | FLAG_MIRROR_MOVE_AFFECTED | FLAG_KINGS_ROCK_AFFECTED,
     },
 };
